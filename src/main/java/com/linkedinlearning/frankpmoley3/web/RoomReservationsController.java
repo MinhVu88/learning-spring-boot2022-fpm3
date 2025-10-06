@@ -1,4 +1,4 @@
-package com.linkedinlearning.web;
+package com.linkedinlearning.frankpmoley3.web;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -6,9 +6,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.linkedinlearning.business.ReservationService;
-import com.linkedinlearning.business.RoomReservation;
-import com.linkedinlearning.utils.DateUtils;
+import com.linkedinlearning.frankpmoley3.business.ReservationService;
+import com.linkedinlearning.frankpmoley3.business.RoomReservation;
+import com.linkedinlearning.frankpmoley3.utils.DateUtils;
 
 import java.util.Date;
 import java.util.List;

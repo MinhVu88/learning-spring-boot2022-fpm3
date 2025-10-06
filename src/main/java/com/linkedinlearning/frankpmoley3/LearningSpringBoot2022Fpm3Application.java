@@ -1,4 +1,4 @@
-package com.linkedinlearning;
+package com.linkedinlearning.frankpmoley3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

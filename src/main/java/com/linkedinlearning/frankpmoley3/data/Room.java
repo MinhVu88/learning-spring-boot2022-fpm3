@@ -1,4 +1,4 @@
-package com.linkedinlearning.data;
+package com.linkedinlearning.frankpmoley3.data;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

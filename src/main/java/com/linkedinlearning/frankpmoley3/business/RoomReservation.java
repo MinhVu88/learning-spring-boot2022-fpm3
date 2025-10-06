@@ -1,4 +1,4 @@
-package com.linkedinlearning.business;
+package com.linkedinlearning.frankpmoley3.business;
 
 import java.util.Date;
 
